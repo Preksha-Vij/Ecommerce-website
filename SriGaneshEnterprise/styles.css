@@ -1,0 +1,42 @@
+/* Apply background image to the entire page */
+body {
+    margin: 0; /* Remove default margin */
+    font-family: Arial, sans-serif; /* Set default font */
+    background-image: url('https://example.com/path-to-your-image.jpg'); /* Replace with your image URL */
+    background-size: cover; /* Scale the image to cover the viewport */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Avoid repeating the image */
+    height: 100vh; /* Full viewport height */
+}
+
+/* Add an overlay to darken the background (optional) */
+.overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* Black color with 50% transparency */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Style for the content */
+.content {
+    position: relative;
+    color: white; /* Text color for contrast */
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    background-color: #ff6f61; /* Example button color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #ff3b2f; /* Button hover effect */
+}

@@ -1,0 +1,78 @@
+/* General body styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Front page styles */
+body.front-page {
+    background-image: url('assets/shop-background.jpg'); /* Shop image as background */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+
+.overlay {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent overlay */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons .btn {
+    background: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.buttons .btn:hover {
+    background: #0056b3;
+}
+
+/* Product grid styles */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.product-item {
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.product-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.product-item h3 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.product-item p {
+    font-size: 0.9rem;
+    color: #333;
+}
