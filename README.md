@@ -1,6 +1,7 @@
 HOME PAGE :-
-
+<p align="center">
 <img width="802" height="283" alt="image" src="https://github.com/user-attachments/assets/bdb200c4-5156-4c0a-b290-e8794bfa1561" />
+  </p>
 PRODUCT PAGE :-
 <img width="1918" height="633" alt="image" src="https://github.com/user-attachments/assets/70b0de14-fcf4-4a8c-b043-d44870d7d004" />
 Details of product :-
