@@ -19,7 +19,12 @@ CHECKOUT :-
 <img width="282" height="407" alt="image" src="https://github.com/user-attachments/assets/201fff12-1eb6-4797-93cf-5250e05c3e00" />
 <img width="317" height="157" alt="image" src="https://github.com/user-attachments/assets/48667147-b0f4-4142-b47a-51d60f13c365" />
 </p>
-
+ADMIN :-
+<p align ="center">
+  <img width="315" height="258" alt="image" src="https://github.com/user-attachments/assets/c58e0c33-b2fa-4979-a9f7-8f871d84d295" />
+  <img width="355" height="302" alt="image" src="https://github.com/user-attachments/assets/0d659079-0248-4d72-bada-e5fab356ac98" />
+</p>
+<img width="1917" height="516" alt="image" src="https://github.com/user-attachments/assets/baa7e678-f812-41e6-b936-1ed01805a162" />
 
 
 
